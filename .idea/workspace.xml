@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a3acb3e-49b6-461b-adb3-df2b719bdee9" name="Changes" comment="" />
+    <list default="true" id="7a3acb3e-49b6-461b-adb3-df2b719bdee9" name="Changes" comment="I solved the assignments" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -24,7 +29,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "cycles",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/cycles1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -36,8 +46,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699854338130</updated>
-      <workItem from="1699854339183" duration="4000" />
+      <workItem from="1699854339183" duration="364000" />
     </task>
+    <task id="LOCAL-00001" summary="I solved the assignments">
+      <option name="closed" value="true" />
+      <created>1699854586946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699854586946</updated>
+    </task>
+    <task id="LOCAL-00002" summary="I solved the assignments">
+      <option name="closed" value="true" />
+      <created>1699854702349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699854702349</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I solved the assignments" />
+    <option name="LAST_COMMIT_MESSAGE" value="I solved the assignments" />
   </component>
 </project>
