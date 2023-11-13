@@ -23,6 +23,7 @@ public class Main {
             System.out.println(e);
         }
 
+
         int accumulation=29000;
         int total = 0;
         for(int i=1;i<13;i++){
